@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Rio Roma",
+        "place": "La Maraka",
+        "description": "El concierto de Río Roma en el Coloso de Reforma programado para el 25 de febrero se pospone para el 24 de marzo    Después de que hace algunos días José Luis Roma se tuvo que someter a una intervención médica debido a un problema de cuerdas vocales, y del cual se está recuperando exitosamente, el dueto anuncia que su concierto programado para el 25 de febrero cambiará al 24 de marzo. Los fans que deseen asistir a la nueva fecha, no es necesario realicen algún cambio. En caso de querer solicitar tu reembolso, acude al punto de venta donde los adquiriste, de acuerdo con las políticas vigentes en Ticketmaster México.",
+        "category": "Musica",
+        "image": "https://media.ticketmaster.com/tm/en-us/dam/a/617/c2d1bdd6-dccf-447a-b2be-ed54ba688617_1762061_CUSTOM.jpg",
+        "price": 5000,
+        "seats": 8,
+        "available": true,
+        "fecha": "10 de septiembre, 2022"
+    },
+    {
+        "name": "OV7",
+        "place": "Auditorio Nacional",
+        "description": "Para beneplácito de todos sus fans, OV7 anuncia las esperadas fechas de su gira 30 Años, que dará inicio el 1 de septiembre en el Auditorio Citibanamex de Monterrey y continuará a lo largo de octubre y noviembre por varias ciudades de la República Mexicana, incluidos 3 shows en el Auditorio Nacional.",
+        "category": "Musica",
+        "image": "https://media.ticketmaster.com/tm/en-us/dam/a/32e/a1fab854-1c2f-4b52-bffd-002fa597532e_1662231_CUSTOM.jpg",
+        "price": 500,
+        "seats": 4,
+        "available": true,
+        "fecha": "15 de septiembre, 2022"
+    },
+    {
+        "name": "Dua Lipa",
+        "place": "Foro Sol",
+        "description": "¡Paren todo! Como parte de su esperada gira mundial Future Nostalgia Tour, la superestrella Dua Lipa llegará a México el 21 de septiembre de 2022 para ofrecer una noche de fiesta en el Foro Sol de la Ciudad de México junto a sus más grandes fans mexicanos. Los boletos estarán disponibles para tarjetahabientes Citibanamex el 15 y 16 de diciembre y un día después, se podrán adquirir en las taquillas del inmueble y a través del sistema Ticketmaster en venta al público en general. Future Nostalgia Tour es la cuarta gira oficial de conciertos de la estrella pop Dua Lipa, quien en 2022 pisará varios países de Latinoamérica como Argentina, Colombia y, por supuesto, México. Esta espectacular gira lleva el mismo nombre que su álbum Future Nostalgia, el cual fue ganador del Grammy a Mejor Álbum de Pop Vocal 2021.",
+        "category": "Musica",
+        "image": "https://media.ticketmaster.com/tm/en-us/dam/a/658/711f6200-7937-4b3a-b4fc-e319ca704658_1579231_CUSTOM.jpg",
+        "price": 700,
+        "seats": 3,
+        "available": true,
+        "fecha": "23 de septiembre, 2022"
+    },
+    {
+        "name": "La Sonora Dinamita",
+        "place": "Auditorio Nacional, CDMX",
+        "description": "Grupo musical de cumbia.",
+        "category": "Musica",
+        "image": "https://media.ticketmaster.com/tm/en-us/dam/a/9b2/0cd55b43-05b3-4d48-8685-594ddd18e9b2_1728161_EVENT_DETAIL_PAGE_16_9.jpg",
+        "price": 600,
+        "seats": 3,
+        "available": true,
+        "fecha": "25 de septiembre, 2022"
+    },
+    {
+        "name": "Rammstein",
+        "place": "Foro Sol",
+        "description": "En OCESA estamos muy motivados que siga la reapertura de actividades, porque son buenas noticias para la mejora de las condiciones de salud y la recuperación económica de esta gran ciudad. Cada vez más, el programa de vacunación y los tratamientos médicos nos dan señales positivas de que las condiciones de salud mejoran.",
+        "category": "Musica",
+        "image": "https://media.ticketmaster.com/tm/en-us/dam/a/948/71b55e09-655e-4c7d-84df-25aa99f7c948_1440631_CUSTOM.jpg",
+        "price": 700,
+        "seats": 4,
+        "available": true,
+        "fecha": "4 de octubre, 2022"
+    },
+    {
+        "name": "Bad Bunny",
+        "place": "Estadio Azteca",
+        "description": "Proclamado el artista más escuchado del mundo por segundo año consecutivo según Spotify, Bad Bunny ha logrado destacarse por sus movimientos revolucionarios que constantemente impactan a la industria musical. El multigalardonado artista agrega un nuevo hito importante para su carrera tras realizar el anuncio de su gira de estadios, “Bad Bunny: World’s Hottest Tour”, donde se enfocará en presentarse en los estadios más importantes de Estados Unidos y Latinoamérica.",
+        "category": "Musica",
+        "image": "https://media.ticketmaster.com/tm/en-us/dam/a/550/35322629-c194-4ae9-8822-3a706d2e6550_1612451_CUSTOM.jpg",
+        "price": 800,
+        "seats": 2,
+        "available": true,
+        "fecha": "10 de diciembre, 2022"
+    }
+]

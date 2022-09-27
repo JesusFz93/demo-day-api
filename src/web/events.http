@@ -1,0 +1,19 @@
+@api = http://localhost:4000/api/events
+
+### lista de eventos
+GET {{api}}
+Content-Type: application/json
+
+### Obtener un solo event
+GET {{api}}/632f58b75b8a6ee81329ce12
+Content-Type: application/json
+
+### crear evento
+POST {{api}}
+Content-Type: application/json
+
+{
+    "name": "Rio Roma",
+    "description": "Grupo musical",
+    "image": "https://media.ticketmaster.com/tm/en-us/dam/a/617/c2d1bdd6-dccf-447a-b2be-ed54ba688617_1762061_CUSTOM.jpg"
+}
